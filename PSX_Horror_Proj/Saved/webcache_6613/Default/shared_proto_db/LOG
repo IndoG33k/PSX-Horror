@@ -1,2 +1,3 @@
-2026/05/12-18:51:41.482 aae0 Creating DB C:\Unreal\PSX-Horror\PSX_Horror_Proj\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/05/12-18:51:41.498 aae0 Reusing MANIFEST C:\Unreal\PSX-Horror\PSX_Horror_Proj\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/05/14-08:37:59.094 60e0 Reusing MANIFEST C:\Unreal\PSX-Horror\PSX_Horror_Proj\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/05/14-08:37:59.100 60e0 Recovering log #3
+2026/05/14-08:37:59.100 60e0 Reusing old log C:\Unreal\PSX-Horror\PSX_Horror_Proj\Saved\webcache_6613\Default\shared_proto_db/000003.log 

@@ -149,7 +149,19 @@
 				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/E/2A/QO7ENNXS5P197QQEE2WF7E.uasset",
 				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/3/4O/L4JAHVXNDGV0VKKKIFQ14Y.uasset",
 				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/C/0V/8ZP636Y37R9JRGWLD42FOH.uasset",
-				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Levels/OpenWorld_Base.umap"
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Levels/OpenWorld_Base.umap",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Blueprints/HumanSacrifice/BP_Waypoint.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Blueprints/HumanSacrifice/BP_SacrificeAI.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Blueprints/HumanSacrifice/ABP_AI.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Blueprints/HumanSacrifice/ABP_AIAnim.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/Workspace/Blueprints/HumanSacrifice/Blendspace_AI.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/1/5I/WDHTX8M9IG570EIKKPQFUR.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/C/9Y/BR3R81H0SLDVNU4E0MVIIE.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/A/ML/ZK8TOTXFYLAIWMRS8I905I.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/5/OG/6S3DM1B3H8SDEKWFSUNZTX.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/5/B3/FJVCYXBUWJLNCJ1VR94W36.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/E/PD/Q9D06QK38YX7GC6U0K2YC3.uasset",
+				"C:/Unreal/PSX-Horror/PSX_Horror_Proj/Content/__ExternalActors__/Workspace/Levels/OpenWorld_Base/D/CD/SEJIB6P03MUOY4LXO1E7UX.uasset"
 			]
 		}
 	]
